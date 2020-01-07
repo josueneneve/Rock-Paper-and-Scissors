@@ -1,1 +1,1 @@
-# Rock Paper and Scissors
+# Game de Pedra, Papel e Tesoura.
